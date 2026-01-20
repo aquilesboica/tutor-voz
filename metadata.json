@@ -1,0 +1,7 @@
+{
+  "name": "Copy of PDF AI Live Tutor",
+  "description": "An interactive AI tutor that uses Gemini 2.5 Live API to have voice conversations about a specific pedagogical training document regarding Generative and Agentic AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
